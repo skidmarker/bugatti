@@ -7,3 +7,4 @@ def solution(array, commands):
         else:
             answer.append(narr[-k])
     return answer
+    
