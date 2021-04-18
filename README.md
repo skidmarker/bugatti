@@ -37,3 +37,14 @@
 - **LEVEL1** [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) [py](./brute-force/42840.py)
 - **LEVEL2** [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) [py](./brute-force/42839.py)
 - **LEVEL2** [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) [py](./brute-force/42842.py)
+
+## 4주차
+
+### Programmers 코딩테스트 고득점 Kit - 탐욕법(Greedy)
+
+- **LEVEL1** [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) [py](./greedy/42862.py)
+- **LEVEL2** [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) [py](./greedy/42860.py)
+- **LEVEL2** [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) [py](./greedy/42883.py)
+- **LEVEL2** [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) [py](./greedy/42885.py)
+- **LEVEL3** [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) [py](./greedy/42861.py)
+- **LEVEL3** [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) [py](./greedy/42884.py)
