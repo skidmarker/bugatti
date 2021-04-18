@@ -48,3 +48,12 @@
 - **LEVEL2** [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) [py](./greedy/42885.py)
 - **LEVEL3** [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) [py](./greedy/42861.py)
 - **LEVEL3** [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) [py](./greedy/42884.py)
+
+## 5주차
+
+### Programmers 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)
+
+- **LEVEL2** [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) [py](./dfs+bfs/타겟_넘버.py)
+- **LEVEL3** [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) [py](./dfs+bfs/네트워크.py)
+- **LEVEL3** [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) [py](./dfs+bfs/단어_변환.py)
+- **LEVEL3** [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) [py](./dfs+bfs/여행경로.py)
