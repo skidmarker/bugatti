@@ -57,3 +57,14 @@
 - **LEVEL3** [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) [py](./dfs+bfs/네트워크.py)
 - **LEVEL3** [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) [py](./dfs+bfs/단어_변환.py)
 - **LEVEL3** [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) [py](./dfs+bfs/여행경로.py)
+
+## 6주차
+
+### Programmers 코딩테스트 고득점 Kit - 이분 탐색(Binary search)
+
+- **LEVEL3** [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) [py](./binary-search/입국심사.py)
+
+### Programmers 코딩테스트 고득점 Kit - 그래프(Graph)
+
+- **LEVEL3** [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) [py](./graph/가장_먼_노드.py)
+- **LEVEL3** [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) [py](./graph/순위.py)
