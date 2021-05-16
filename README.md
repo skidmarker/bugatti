@@ -86,3 +86,9 @@
 - **Gold5** [Auto-Complete](https://www.acmicpc.net/problem/9991) [py](./8주차/Auto-Complete.py)
 - **Gold5** [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) [py](./8주차/아우으_우아으이야.py)
 - **Gold3** [내일로 여행](https://www.acmicpc.net/problem/13168) [py](./8주차/내일로_여행.py)
+
+## 9주차
+
+### 엘리스(elice) 코딩 모의테스트 A
+
+- [늑대가 나타났다!] [py](./9주차/늑대가_나타났다.py)
