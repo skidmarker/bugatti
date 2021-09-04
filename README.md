@@ -76,3 +76,19 @@
 - **LEVEL3** [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) [py](./dp/N으로_표현.py)
 - **LEVEL3** [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) [py](./dp/정수_삼각형.py)
 - **LEVEL3** [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) [py](./dp/등굣깃.py)
+
+## 8주차
+
+### Baekjoon 문제집 - 카카오 블라인드 2020 기출문제
+
+- **Silver3** [단축키 지정](https://www.acmicpc.net/problem/1283) [py](./8주차/단축키_지정.py)
+- **Gold5** [추월](https://www.acmicpc.net/problem/2002) [py](./8주차/추월.py)
+- **Gold5** [Auto-Complete](https://www.acmicpc.net/problem/9991) [py](./8주차/Auto-Complete.py)
+- **Gold5** [아우으 우아으이야!!](https://www.acmicpc.net/problem/15922) [py](./8주차/아우으_우아으이야.py)
+- **Gold3** [내일로 여행](https://www.acmicpc.net/problem/13168) [py](./8주차/내일로_여행.py)
+
+## 9주차
+
+### 엘리스(elice) 코딩 모의테스트 A
+
+- [늑대가 나타났다!] [py](./9주차/늑대가_나타났다.py)
